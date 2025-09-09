@@ -1,0 +1,6 @@
+/* Import our custom animation system */
+@import './animations.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
